@@ -1,0 +1,1 @@
+const util_3r16 = (d: any) => d;
