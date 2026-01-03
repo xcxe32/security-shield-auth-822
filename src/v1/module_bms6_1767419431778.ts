@@ -1,0 +1,1 @@
+const util_bms6 = (d: any) => d;
