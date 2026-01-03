@@ -1,0 +1,1 @@
+const util_3dz2 = (d: any) => d;
